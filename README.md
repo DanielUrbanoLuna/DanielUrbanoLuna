@@ -10,30 +10,23 @@
 <a href="https://www.linkedin.com/in/daniel-urbano-luna-131274304/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
 </div>
 <br>
-<div align="center"> 
-<strong>Un/dia/del 2024
+<div align="left"> 
+<strong>
 
-Queridas personas de captación de talento
-[Empresa que me de la oportunidad]
-Estimado/a equipo de captación de talento,
-Me dirijo a ustedes con el objetivo de presentar mi candidatura para el puesto de
-Desarrollador de Aplicaciones Web (DAW). Estoy muy entusiasmado/a por la
-posibilidad de formar parte de su equipo y contribuir con mis habilidades y
-conocimientos al éxito continuo de su empresa.
+- 🔭 I’m currently working in Servicios Informaticos Barcelona providing computer support to the waste department of the Generalitat de Catalunya.
 
-Recientemente, he completado mis estudios en Desarrollo de Aplicaciones
-Web, donde adquirí una sólida base en tecnologías clave como HTML, CSS,
-JavaScript, PHP y bases de datos MySQL.
+- 🌱 Recently graduated in higher technical Web App Development
 
-También, de manera autodidacta, estoy formándome a utilizar React con la formación de Udemy: 
-Aprende React JS con Hooks desde cero y desarrolla aplicaciones web con el MERN Stack
+- 🤝 I would like to have the opportunity to work as an app developer.
 
-Me encantaría poder tener la oportunidad de trabajar y aprender en una
-empresa tan destacada como la vuestra. Creo que mis
-habilidades técnicas y mi capacidad para aprender rápidamente se alinean
-perfectamente con los requisitos de su equipo.
-Agradezco de antemano su tiempo y consideración.
-Atentamente,
-Daniel Urbano Luna</strong>
+- 🌱 I am currently training in: Aprende React JS con Hooks desde cero y desarrolla aplicaciones web con el MERN Stack.
 
+- 📝 As a hobby I created the website witch wordpress [https://champu.net/].
+
+- 📫 How to reach me **urbanobdn@gmail.com**
+</strong>
+</div>
+<br>
+<div align="center">
+<strong>Delighted to meet you</strong>
 </div>
