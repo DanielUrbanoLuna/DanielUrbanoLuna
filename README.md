@@ -1,5 +1,5 @@
 ## HOLA, mi nombre es Daniel Urbano Luna 👋
-![Banner](src/images/Daniel Urbano.png)
+
 <!--
 **DanielUrbanoLuna/DanielUrbanoLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
