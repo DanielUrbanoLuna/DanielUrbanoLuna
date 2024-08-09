@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working in Servicios Informaticos Barcelona providing computer support to the waste department of the Generalitat de Catalunya.
 
-- 🌱 Recently graduated in higher technical Web App Development
+- 🌱 Graduated in higher technical Web App Development
 
 - 🤝 I would like to have the opportunity to work as an app developer.
 
