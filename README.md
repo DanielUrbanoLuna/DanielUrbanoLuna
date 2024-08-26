@@ -12,7 +12,8 @@
 <br>
 <div align="left"> 
 <strong>
-- 🔭 https://danielurbanoluna.github.io/06_proyecto_pelis/build/
+  
+- 🔭 Visit my React project!! https://danielurbanoluna.github.io/06_proyecto_pelis/build/
 
 - 🔭 I’m currently working in Servicios Informaticos Barcelona providing computer support to the waste department of the Generalitat de Catalunya.
 
