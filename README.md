@@ -13,10 +13,11 @@
 <div align="left"> 
 <strong>
 
+- 🔭 Visit my React portafolio: Portafoliodul!! danielurbanoluna.github.io/portafoliodul/
   
-- 🔭 Use my React project: Mis proyectos y mis series!! https://danielurbanoluna.github.io/06_proyecto_pelis/build/
+- 🔭 Use my React project: Mis peliculas y mis series!! https://danielurbanoluna.github.io/06_proyecto_pelis/build/
 
-- 🌱Visit my React project repository: Mis películas y mis series: https://github.com/DanielUrbanoLuna/06_proyecto_pelis
+- 🔭 Use my React project: Game Piedra Papel Tijera! https://danielurbanoluna.github.io/piedrapapeltijera/build/
 
 - 🔭 I’m currently working in Servicios Informaticos Barcelona providing computer support to the waste department of the Generalitat de Catalunya.
 
