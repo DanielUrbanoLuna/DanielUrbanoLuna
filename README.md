@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github.com/DanielUrbanoLuna/DanielUrbanoLuna/blob/main/src/images/Daniel%20Urbano.png" width = 800px>
+<img src="https://github.com/DanielUrbanoLuna/DanielUrbanoLuna/blob/main/src/images/conocimientos.png" width = 800px>
 </div>
 <br>
 <div align="left">
